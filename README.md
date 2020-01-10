@@ -1,2 +1,2 @@
-# LinearRegression
-An mini-project on the application of linear regression 
+# ML Projects
+My mini-projects on the ML algorithms
